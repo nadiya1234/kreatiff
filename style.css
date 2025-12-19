@@ -54,6 +54,20 @@
   justify-content: center;
 }
 
+.back-btn {
+  margin-top: 40px;
+  width: 60px;
+  height: 60px;
+  background: #ff9f9f;
+  color: white;
+  font-size: 20px;
+  border-radius: 50%;
+  text-decoration-thickness: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .badge {
   background: #ff9f9f;
   color: white;
@@ -74,7 +88,7 @@
   object-fit: cover;
 }
 
-.umur {
+.umurr {
   position: absolute;
   top: 10px;
   right: 10px;
